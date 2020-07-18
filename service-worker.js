@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Teachzy-Feature-Discovery/precache-manifest.881000c6f0830557ce41c90118051742.js"
+  "/Teachzy-Feature-Discovery/precache-manifest.637dff314de4fa57c32cdc0154dd5b82.js"
 );
 
 self.addEventListener('message', (event) => {
