@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Teachzy-Feature-Discovery/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/Teachzy-Feature-Discovery/static/js/main.08ea937f.chunk.js",
-    "main.js.map": "/Teachzy-Feature-Discovery/static/js/main.08ea937f.chunk.js.map",
+    "main.js": "/Teachzy-Feature-Discovery/static/js/main.d26cf3ba.chunk.js",
+    "main.js.map": "/Teachzy-Feature-Discovery/static/js/main.d26cf3ba.chunk.js.map",
     "runtime-main.js": "/Teachzy-Feature-Discovery/static/js/runtime-main.6725b4fc.js",
     "runtime-main.js.map": "/Teachzy-Feature-Discovery/static/js/runtime-main.6725b4fc.js.map",
-    "static/js/2.073ee404.chunk.js": "/Teachzy-Feature-Discovery/static/js/2.073ee404.chunk.js",
-    "static/js/2.073ee404.chunk.js.map": "/Teachzy-Feature-Discovery/static/js/2.073ee404.chunk.js.map",
+    "static/js/2.a70de0d1.chunk.js": "/Teachzy-Feature-Discovery/static/js/2.a70de0d1.chunk.js",
+    "static/js/2.a70de0d1.chunk.js.map": "/Teachzy-Feature-Discovery/static/js/2.a70de0d1.chunk.js.map",
     "index.html": "/Teachzy-Feature-Discovery/index.html",
-    "precache-manifest.637dff314de4fa57c32cdc0154dd5b82.js": "/Teachzy-Feature-Discovery/precache-manifest.637dff314de4fa57c32cdc0154dd5b82.js",
+    "precache-manifest.4fa0e2c7606f084db070552e7c3759d8.js": "/Teachzy-Feature-Discovery/precache-manifest.4fa0e2c7606f084db070552e7c3759d8.js",
     "service-worker.js": "/Teachzy-Feature-Discovery/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/Teachzy-Feature-Discovery/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.073ee404.chunk.js.LICENSE.txt": "/Teachzy-Feature-Discovery/static/js/2.073ee404.chunk.js.LICENSE.txt",
+    "static/js/2.a70de0d1.chunk.js.LICENSE.txt": "/Teachzy-Feature-Discovery/static/js/2.a70de0d1.chunk.js.LICENSE.txt",
     "static/media/createDeleteNotes.gif": "/Teachzy-Feature-Discovery/static/media/createDeleteNotes.0eb0e988.gif",
     "static/media/createGroup.gif": "/Teachzy-Feature-Discovery/static/media/createGroup.c1382f6f.gif",
     "static/media/deleteGroup.gif": "/Teachzy-Feature-Discovery/static/media/deleteGroup.183bce94.gif",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6725b4fc.js",
-    "static/js/2.073ee404.chunk.js",
+    "static/js/2.a70de0d1.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.08ea937f.chunk.js"
+    "static/js/main.d26cf3ba.chunk.js"
   ]
 }
