@@ -33,21 +33,34 @@ function App() {
         <Route path="/fees" component={Fees}/>
         
       <div className="hide-on-large-only">
-        <h4 className="center">How to?</h4>
-      <ul className="collection" >
+        
+      <ul className="left-align" style={{paddingLeft:"15x",fontSize:"1.2em",marginLeft:"20px",marginRight:"20px"}} >
+      <div className="divider"></div>
+          <Link to="/createGroup"><li className="black-text section">Creating a New Group</li></Link>
+          <div className="divider"></div>
+          <Link to="/deleteGroup"><li className="black-text section">Deleting a Group</li></Link>
+          <div className="divider"></div>
+          <Link to="/feed"><li className="black-text section">Using the Feed page</li></Link>
+          <div className="divider"></div>
+          <Link to="/shareGroup"><li className="black-text section">Share your Group</li></Link>
+          <div className="divider"></div>
+          <Link to="/removeStudent"><li className="black-text section">Remove a Student from a Group</li></Link>
+          <div className="divider"></div>
+          <Link to="/markAttendance"><li className="black-text section">Mark Attendance of a Group</li></Link>
+          <div className="divider"></div>
+          <Link to="/notes"><li className="black-text section">Creating and deleting Notes folder</li></Link>
+          <div className="divider"></div>
+          <Link to="/events"><li className="black-text section">Working with events</li></Link>
+          <div className="divider"></div>
+          <Link to="/studentDetails"><li className="black-text section">View Student Details</li></Link>
+          <div className="divider"></div>
+          <Link to="/studentSubmissions"><li className="black-text section">Track Student Submissions</li></Link>
+          <div className="divider"></div>
+          <Link to="/feePayments"><li className="black-text section">Adding Fee Payment to Groups</li></Link>
+          <div className="divider"></div>
+          <Link to="/fees"><li className="black-text section">Track Student Fees</li></Link>
           
-          <Link to="/createGroup"><li className="black-text collection-item">Creating a New Group</li></Link>
-          <Link to="/deleteGroup"><li className="black-text collection-item">Deleting a Group</li></Link>
-          <Link to="/feed"><li className="black-text collection-item">Using the Feed page</li></Link>
-          <Link to="/shareGroup"><li className="black-text collection-item">Share your Group</li></Link>
-          <Link to="/removeStudent"><li className="black-text collection-item">Remove a Student from a Group</li></Link>
-          <Link to="/markAttendance"><li className="black-text collection-item">Mark Attendance of a Group</li></Link>
-          <Link to="/notes"><li className="black-text collection-item">Creating and deleting Notes folder</li></Link>
-          <Link to="/events"><li className="black-text collection-item">Working with events</li></Link>
-          <Link to="/studentDetails"><li className="black-text collection-item">View Student Details</li></Link>
-          <Link to="/studentSubmissions"><li className="black-text collection-item">Track Student Submissions</li></Link>
-          <Link to="/feePayments"><li className="black-text collection-item">Adding Fee Payment to Groups</li></Link>
-          <Link to="/fees"><li className="black-text collection-item">Track Student Fees</li></Link>
+          <div className="divider"></div>
         </ul>
       </div>
        
