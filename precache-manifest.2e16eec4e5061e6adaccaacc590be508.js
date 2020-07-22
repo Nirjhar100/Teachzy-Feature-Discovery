@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9feda3d9fbb21ad26b036a51a9a54a99",
+    "revision": "a76b75ea385ed2213b7221d085a1d30c",
     "url": "/Teachzy-Feature-Discovery/index.html"
   },
   {
-    "revision": "739c5ec4e47787426c9a",
+    "revision": "aa5cfb6761446f9e1cf7",
     "url": "/Teachzy-Feature-Discovery/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Teachzy-Feature-Discovery/static/js/2.a70de0d1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "739c5ec4e47787426c9a",
-    "url": "/Teachzy-Feature-Discovery/static/js/main.d26cf3ba.chunk.js"
+    "revision": "aa5cfb6761446f9e1cf7",
+    "url": "/Teachzy-Feature-Discovery/static/js/main.afb5e45a.chunk.js"
   },
   {
     "revision": "33f98f40aeebc3759857",
