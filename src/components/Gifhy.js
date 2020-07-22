@@ -29,9 +29,9 @@ const GroupCreation=()=>{
        <div className=" hide-on-large-only " >
         <div className="container center">
  
-        <p className="teal-text " style={{fontSize:"1em"}}> <b>Creating a new group</b> </p>
+       
         <img src={createGroup} alt="how to create group" className="responsive-img " style={{border:"solid 2px teal",borderRadius:"10px",height:"90vh"}}/>
-     
+        <p className="teal-text " style={{fontSize:"1em"}}> <b>Creating a new group</b> </p>
        </div>
        </div>
 
@@ -57,9 +57,9 @@ export const GroupDeletion=()=>{
        <div className=" hide-on-large-only " >
         <div className="container center">
      
-        <p className="teal-text "> <b> Deleting a group</b> </p>
+       
         <img src={deleteGroup} alt="how to create group" className="responsive-img " style={{border:"solid 2px teal",borderRadius:"10px",height:"90vh"}}/>
-     
+        <p className="teal-text "> <b> Deleting a group</b> </p>
        </div>
        </div>
 
@@ -85,9 +85,9 @@ export const FeedDiscovery  = ()=>{
        <div className=" hide-on-large-only " >
        <div className="container center">
      
-     <p className="teal-text "> <b> Using the Feed page</b> </p>
+    
      <img src={deleteGroup} alt="how to create group" className="responsive-img " style={{border:"solid 2px teal",borderRadius:"10px",height:"90vh"}}/>
-  
+     <p className="teal-text "> <b> Using the Feed page</b> </p>
     </div>
        </div>
 
@@ -112,9 +112,9 @@ export const GroupSharing = ()=>{
        <div className=" hide-on-large-only " >
        <div className="container center">
      
-     <p className="teal-text "> <b> Sharing your group with other people</b> </p>
+    
      <img src={deleteGroup} alt="how to create group" className="responsive-img " style={{border:"solid 2px teal",borderRadius:"10px",height:"90vh"}}/>
-  
+     <p className="teal-text "> <b> Sharing your group with other people</b> </p>
     </div>
        </div>
 
@@ -139,9 +139,9 @@ export const RemoveStudent = ()=>{
        <div className=" hide-on-large-only " >
        <div className="container center">
      
-     <p className="teal-text "> <b> Removing a Student from a Group</b> </p>
+     
      <img src={deleteGroup} alt="how to create group" className="responsive-img " style={{border:"solid 2px teal",borderRadius:"10px",height:"90vh"}}/>
-  
+     <p className="teal-text "> <b> Removing a Student from a Group</b> </p>
     </div>
        </div>
 
@@ -166,9 +166,9 @@ export const MarkAttendance = ()=>{
        <div className=" hide-on-large-only " >
        <div className="container center">
      
-     <p className="teal-text "> <b> Mark Attendance of a group</b> </p>
+    
      <img src={deleteGroup} alt="how to create group" className="responsive-img " style={{border:"solid 2px teal",borderRadius:"10px",height:"90vh"}}/>
-  
+     <p className="teal-text "> <b> Mark Attendance of a group</b> </p>
     </div>
        </div>
 
@@ -193,9 +193,9 @@ export const Notes = ()=>{
        <div className=" hide-on-large-only " >
        <div className="container center">
      
-     <p className="teal-text "> <b> Creation and Deletion of a  Notes Folder</b> </p>
+    
      <img src={deleteGroup} alt="how to create group" className="responsive-img " style={{border:"solid 2px teal",borderRadius:"10px",height:"90vh"}}/>
-  
+     <p className="teal-text "> <b> Creation and Deletion of a  Notes Folder</b> </p>
     </div>
        </div>
 
@@ -221,9 +221,9 @@ export const Events = ()=>{
        <div className=" hide-on-large-only " >
        <div className="container center">
      
-     <p className="teal-text "> <b>Working with Events</b> </p>
+   
      <img src={deleteGroup} alt="how to create group" className="responsive-img " style={{border:"solid 2px teal",borderRadius:"10px",height:"90vh"}}/>
-  
+     <p className="teal-text "> <b>Working with Events</b> </p>
     </div>
        </div>
 
@@ -247,9 +247,9 @@ export const StudentDetails = ()=>{
        <div className=" hide-on-large-only " >
        <div className="container center">
      
-     <p className="teal-text "> <b>View Student Details</b> </p>
+     
      <img src={deleteGroup} alt="how to create group" className="responsive-img " style={{border:"solid 2px teal",borderRadius:"10px",height:"90vh"}}/>
-  
+     <p className="teal-text "> <b>View Student Details</b> </p>
     </div>
        </div>
 
@@ -274,9 +274,9 @@ export const StudentSubmissions = ()=>{
        <div className=" hide-on-large-only " >
        <div className="container center">
      
-     <p className="teal-text "> <b>Track Students Submissions</b> </p>
+     
      <img src={deleteGroup} alt="how to create group" className="responsive-img " style={{border:"solid 2px teal",borderRadius:"10px",height:"90vh"}}/>
-  
+     <p className="teal-text "> <b>Track Students Submissions</b> </p>
     </div>
        </div>
 
@@ -300,9 +300,9 @@ export const FeePayments = ()=>{
        <div className=" hide-on-large-only " >
        <div className="container center">
      
-     <p className="teal-text "> <b>Adding Fee payments to Groups</b> </p>
+   
      <img src={deleteGroup} alt="how to create group" className="responsive-img " style={{border:"solid 2px teal",borderRadius:"10px",height:"90vh"}}/>
-  
+     <p className="teal-text "> <b>Adding Fee payments to Groups</b> </p>
     </div>
        </div>
 
@@ -327,9 +327,9 @@ export const Fees = ()=>{
        <div className=" hide-on-large-only " >
        <div className="container center">
      
-     <p className="teal-text "> <b>Track Student Fees</b> </p>
+    
      <img src={deleteGroup} alt="how to create group" className="responsive-img " style={{border:"solid 2px teal",borderRadius:"10px",height:"90vh"}}/>
-  
+     <p className="teal-text "> <b>Track Student Fees</b> </p>
     </div>
        </div>
 
