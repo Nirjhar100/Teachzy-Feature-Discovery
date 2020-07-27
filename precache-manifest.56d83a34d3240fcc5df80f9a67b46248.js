@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a76b75ea385ed2213b7221d085a1d30c",
+    "revision": "09673f6e1f816e5acff395ae8252173e",
     "url": "/Teachzy-Feature-Discovery/index.html"
   },
   {
-    "revision": "aa5cfb6761446f9e1cf7",
+    "revision": "afcc7b3debf6232fc087",
     "url": "/Teachzy-Feature-Discovery/static/css/main.5ecd60fb.chunk.css"
   },
   {
-    "revision": "003fd69872de9da609cc",
-    "url": "/Teachzy-Feature-Discovery/static/js/2.a70de0d1.chunk.js"
+    "revision": "40275c2f74d5ba2d72ff",
+    "url": "/Teachzy-Feature-Discovery/static/js/2.073ee404.chunk.js"
   },
   {
     "revision": "7979eeaf519f92e9fad084e05c681841",
-    "url": "/Teachzy-Feature-Discovery/static/js/2.a70de0d1.chunk.js.LICENSE.txt"
+    "url": "/Teachzy-Feature-Discovery/static/js/2.073ee404.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "aa5cfb6761446f9e1cf7",
-    "url": "/Teachzy-Feature-Discovery/static/js/main.afb5e45a.chunk.js"
+    "revision": "afcc7b3debf6232fc087",
+    "url": "/Teachzy-Feature-Discovery/static/js/main.997a6c4c.chunk.js"
   },
   {
     "revision": "33f98f40aeebc3759857",
