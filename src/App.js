@@ -34,8 +34,8 @@ function App() {
         
       <div className="hide-on-large-only">
         
-      <ul className="left-align" style={{paddingLeft:"15x",fontSize:"1.2em",marginLeft:"20px",marginRight:"20px"}} >
-      <div className="divider"></div>
+      <ul className="left-align" style={{paddingLeft:"25px",fontSize:"1.2em",marginLeft:"20px",marginRight:"30px"}} >
+   
           <Link to="/createGroup"><li className="black-text section">Creating a New Group</li></Link>
           <div className="divider"></div>
           <Link to="/deleteGroup"><li className="black-text section">Deleting a Group</li></Link>
